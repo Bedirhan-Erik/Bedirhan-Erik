@@ -3,8 +3,8 @@
 Ege Üniversitesi'nde Bilgisayar Programcılığı öğrencisiyim. Mobil uygulama geliştirme ve modern web teknolojileri üzerine yoğunlaşarak geleceğin yazılım dünyasında yerimi almayı hedefliyorum.
 
 ###  Şu An Neler Yapıyorum?
--  **Akıllı Gardrop** ve **SolidUp** projeleri üzerinde çalışıyorum (React Native & Node.js).
--  OSI modelini öğreten **LayerUp** kart oyununu geliştiriyorum.
+-  **Akıllı Gardrop** adı altında bitirme projemi geliştiriyorum ekibimle.
+-  Otomasyonlar ile Ai Agent geliştirme konusunda kendimi derinleştiriyorum.
 -  Python ve Veri Yapıları üzerine kendimi derinleştiriyorum.
 
 ### 💻 Teknoloji Çantam
