@@ -32,8 +32,3 @@ Ege Üniversitesi'nde Bilgisayar Programcılığı öğrencisiyim. Mobil uygulam
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bedirhan-erik-842295228/)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bedirhan_erik/)
 
----
-
-### 📊 GitHub İstatistiklerim
-![Bedirhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bedirhan-Erik&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bedirhan-Erik&layout=compact&theme=radical)
