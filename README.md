@@ -1,6 +1,6 @@
 # Selam! Ben Bedirhan 
 
-Ege Üniversitesi'nde Bilgisayar Programcılığı öğrencisiyim. Mobil uygulama geliştirme ve modern web teknolojileri üzerine yoğunlaşarak geleceğin yazılım dünyasında yerimi almayı hedefliyorum.
+Ege Üniversitesi'nde Bilgisayar Programcılığı bölümünden mezun oldum. Mobil uygulama geliştirme ve modern web teknolojileri üzerine yoğunlaşarak geleceğin yazılım dünyasında yerimi almayı hedefliyorum.
 
 ###  Şu An Neler Yapıyorum?
 -  **Akıllı Gardrop** adı altında bitirme projemi geliştiriyorum ekibimle.
