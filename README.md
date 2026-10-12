@@ -1,55 +1,41 @@
-<h1 align="center">Merhaba, ben Bedirhan</h1>
+# Merhaba, ben Bedirhan 
 
-<p align="center">
-  Ege Üniversitesi Bilgisayar Programcılığı mezunu · Mobil & Web Geliştirici
-</p>
+Ege Üniversitesi **Bilgisayar Programcılığı** mezunuyum. Web, mobil ve backend tarafında projeler geliştiriyor; teknolojiyi gerçek hayattaki sorunlara çözüm üretmek için kullanmayı seviyorum.
+
+ Denizli / İzmir · [bedirhan-erik.github.io](https://bedirhan-erik.github.io) · [LinkedIn](https://www.linkedin.com/in/bedirhanerik-842295228) · bedirhan.erik20@gmail.com
 
 ---
 
-### Hakkımda
+## Deneyim
 
-Ege Üniversitesi'nde Bilgisayar Programcılığı bölümünden mezun oldum. Mobil uygulama geliştirme ve modern web teknolojileri üzerine yoğunlaşarak geleceğin yazılım dünyasında yerimi almayı hedefliyorum.
+- **Türk Telekom** · Stajyer *(07/2026 – 08/2026)*
+  Switch kurulumu, IP konfigürasyonu ve saha/altyapı arıza tespiti.
+- **Mozena Software** · Yazılım Stajyeri *(07/2025 – 08/2025)*
+  FastAPI ile asenkron API'lar, React + TypeScript arayüzler, Docker ile standart geliştirme ve dağıtım ortamları.
 
-### Şu An Neler Yapıyorum?
+## Öne Çıkan Projeler
 
-- **Akıllı Gardırop** adlı bitirme projemi ekibimle birlikte geliştiriyorum.
-- Bir **LMS (Öğrenme Yönetim Sistemi) platformu** üzerinde web geliştirme çalışıyorum.
-- Otomasyonlar ile **AI Agent** geliştirme konusunda kendimi derinleştiriyorum.
-- **Veri analizi** konusunda kendimi geliştiriyorum.
-- **Python** ve **Veri Yapıları** üzerine bilgimi ilerletiyorum.
+| Proje | Açıklama | Teknolojiler |
+|---|---|---|
+| [**YANKI**](https://github.com/Bedirhan-Erik/YANKI-Decentralized-Mesh-Network) | Afetlerde baz istasyonları çöktüğünde BLE / Wi-Fi Aware mesh ağı üzerinden internetsiz, cihazdan cihaza haberleşme sağlayan Android uygulaması *(Bitirme projesi)* | Kotlin, Jetpack Compose, Node.js, Firebase |
+| [**ToDo-App**](https://github.com/Bedirhan-Erik/ToDo-App) | Uçtan uca full-stack görev yönetimi uygulaması; container içinde çalışan asenkron backend | FastAPI, React, TypeScript, SQLAlchemy, Docker, Tailwind |
+| [**Textile-Inventory-Manager**](https://github.com/Bedirhan-Erik/Textile-Inventory-Manager) | Tekstil sektörü için kumaş verimliliği ve fire maliyeti analizi yapan masaüstü uygulaması | C#, .NET |
+| [**LayerUp**](https://github.com/Bedirhan-Erik/LayerUp) | OSI katmanlarını oyunlaştırarak öğreten interaktif kart oyunu | React, JavaScript |
 
-### Teknoloji Çantam
+## 🛠️ Teknolojiler
 
-**Ön Uç & Mobil**
+**Diller:** Python · TypeScript · JavaScript · C# · Kotlin · SQL
+**Backend:** FastAPI · Node.js · .NET · SQLAlchemy
+**Frontend & Mobil:** React · React Native · Jetpack Compose · Tailwind CSS · HTML/CSS
+**Altyapı & Araçlar:** Docker · Git · AWS · Firebase · Network / IP Konfigürasyonu
+**Yapay Zeka Araçları:** GitHub Copilot · Cursor · ChatGPT
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+##  Şu An
 
-**Arka Uç & Diller**
+- Yapay zeka destekli otomasyon ve AI agent geliştirme üzerine çalışıyorum
+- Python ve veri yapıları bilgimi derinleştiriyorum
+- IT destek ve junior yazılım geliştirici pozisyonları için **yeni fırsatlara açığım**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+##  Kod Dışında
 
-### Hakkımda Bazı Eğlenceli Bilgiler
-
-- **Tutkum:** Futbol ve voleybol oynamak.
-- **Favori Serim:** Karayip Korsanları (Jack Sparrow'un zekasına hayranım!).
-- **Hayalim:** Bir gün İsviçre Alpleri'nde kod yazmak veya New York sokaklarını gezmek.
-- **Kitap:** *Beyaz Diş*, her zaman aklımın bir köşesindedir.
-
-### Bana Ulaşın
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/bedirhan-erik-842295228/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Bedirhan-Erik" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+Aktif olarak futbol oynuyorum, voleybolu da severim. Fotoğraf ve video üretimiyle ilgileniyorum. Yabancı dilimi geliştiriyorum. En sevdiğim kitap *Hayvan Çiftliği*.
